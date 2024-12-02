@@ -1,5 +1,5 @@
 package u5t1;
-public class Main {
+public class MainT1 {
     public static void main(String[] args) {
         Person person1 = new Person("Adam", "Jones");
         Person person2 = new Person("John", "Smith");

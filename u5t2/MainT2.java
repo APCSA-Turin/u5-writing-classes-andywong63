@@ -1,6 +1,6 @@
 package u5t2;
 
-public class Main {
+public class MainT2 {
     public static void main(String[] args) {
         Student alan = new Student("Alan Turing", 11, "Brooklyn Tech");
         Student geena = new Student("Geena Davis", 7, "Academy Middle School");
