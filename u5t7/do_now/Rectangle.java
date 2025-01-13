@@ -1,3 +1,5 @@
+package u5t7.do_now;
+
 public class Rectangle {
     // instance variables
     private double length;

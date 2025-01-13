@@ -1,3 +1,5 @@
+package u5t7_part2.do_now;
+
 public class Main {
     public static void main(String[] args) {
         KeyGenerator gen = new KeyGenerator("shone");

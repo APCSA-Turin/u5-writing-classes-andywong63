@@ -1,3 +1,5 @@
+package u5t6;
+
 public class CreditCard {
     private String accountHolder;
     private String personalPIN;

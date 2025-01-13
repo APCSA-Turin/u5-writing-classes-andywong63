@@ -1,3 +1,5 @@
+package u5t7.do_now;
+
 public class Main {
     public static void main(String[] args) {
         // creating a Rectangle object and getting its area

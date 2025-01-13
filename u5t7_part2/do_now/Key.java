@@ -1,3 +1,5 @@
+package u5t7_part2.do_now;
+
 public class Key {
 
     private String password;

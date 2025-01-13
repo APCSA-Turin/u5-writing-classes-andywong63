@@ -1,3 +1,5 @@
+package u5t6;
+
 public class Bank {
     private int onHandCash;
     private int vendorAccountBalance;

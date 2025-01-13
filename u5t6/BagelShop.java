@@ -1,3 +1,5 @@
+package u5t6;
+
 public class BagelShop {
     /** The name of the BagelShop */
     private String name;
